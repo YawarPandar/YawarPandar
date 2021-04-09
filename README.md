@@ -2,10 +2,10 @@
 
 I'm YawarPandar.<br/>
 [![Website](https://img.shields.io/badge/Software%20%20Developer-blue?style=for-the-badge)](https://github.com/YawarPandar)[![Website](https://img.shields.io/badge/InfoSec%20%20Enthusiastic-red?style=for-the-badge)](https://github.com/YawarPandar)[![Website](https://img.shields.io/badge/Casual%20%20Gamer-green?style=for-the-badge)](https://github.com/YawarPandar)
-
 - I’m currently working on software outsourcing services for banking and financial companies.
 - I’m currently learning about networking stuff.
-- Work experience:
+- Work experience:<br/>
+
   - [![Website](https://img.shields.io/badge/Visual%20%20Studio%20%20.Net-blue?style=flat&logo=visual-studio)](https://visualstudio.microsoft.com/vs/)
   - [![Website](https://img.shields.io/badge/Visual%20%20Studio%20%20Code-blue?style=flat&logo=visual-studio-code)](https://code.visualstudio.com/)
   - [![Website](https://img.shields.io/badge/Red%20%20Hat%20%20CodeReady%20%20Studio-red?style=flat&logo=red-hat)](https://www.redhat.com/en/technologies/jboss-middleware/codeready-studio)
