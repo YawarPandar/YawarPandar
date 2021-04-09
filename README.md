@@ -7,7 +7,7 @@ I'm YawarPandar.<br/>
 - Work experience:<br/>
 
   - [![Website](https://img.shields.io/badge/Visual%20%20Studio%20%20.Net-blue?style=flat&logo=visual-studio)](https://visualstudio.microsoft.com/vs/)
-  - [![Website](https://img.shields.io/badge/.NET-purple?style=flat&logo=dotnet)](https://dotnet.microsoft.com/)
+  - [![Website](https://img.shields.io/badge/.NET-purple?style=flat&logo=.net)](https://dotnet.microsoft.com/)
   - [![Website](https://img.shields.io/badge/Visual%20%20Studio%20%20Code-blue?style=flat&logo=visual-studio-code)](https://code.visualstudio.com/)
   - [![Website](https://img.shields.io/badge/Red%20%20Hat%20%20CodeReady%20%20Studio-red?style=flat&logo=red-hat)](https://www.redhat.com/en/technologies/jboss-middleware/codeready-studio)
   - [![Website](https://img.shields.io/badge/Microsoft%20%20SQL%20%20Server-red?style=flat&logo=microsoft-sql-server)](https://www.microsoft.com/en-us/sql-server/sql-server-2019)
@@ -27,9 +27,12 @@ I'm YawarPandar.<br/>
   - [![Website](https://img.shields.io/badge/Red%20%20Hat%20%20JBoss%20%20Fuse%20%20Karaf-blue?style=flat&logo=red-hat)](https://github.com/jboss-fuse/fuse-karaf)
   - [![Website](https://img.shields.io/badge/Red%20%20Hat%20%20JBoss%20%20EAP-blue?style=flat&logo=red-hat)](https://www.redhat.com/en/technologies/jboss-middleware/application-platform)
   - [![Website](https://img.shields.io/badge/Red%20%20Hat%20%20JBoss%20%20BRMS-blue?style=flat&logo=red-hat)](https://www.cmsdistribution.com/product/red-hat-jboss-brms/)
+  - [![Website](https://img.shields.io/badge/Apache%20%20HTP%20%Server-blue?style=flat&logo=red-hat)](https://www.cmsdistribution.com/product/red-hat-jboss-brms/)
+ 
 - Free time interests:
   - [![Website](https://img.shields.io/badge/Kali%20%20Linux-black?style=flat&logo=kali-linux)](https://www.kali.org/)
-  - [![Website](https://img.shields.io/badge/Android-green?style=flat&logo=android)](https://github.com/YawarPandar)
+  - [![Website](https://img.shields.io/badge/Android-green?style=flat&logo=android)](https://www.android.com/)
+  - [![Website](https://img.shields.io/badge/Android%20%20Studio-green?style=flat&logo=android-studio)](https://developer.android.com/studio/)
   - [![Website](https://img.shields.io/badge/PS%20%20Vita-blue?style=flat&logo=playstation-vita)](https://en.wikipedia.org/wiki/PlayStation_Vita)
 
 ## Connect with me:
@@ -39,3 +42,4 @@ I'm YawarPandar.<br/>
 [website]: https://www.facebook.com/mf.ramirezl
 [twitter]: https://twitter.com/MFRamL
 [linkedin]: https://www.linkedin.com/in/mauricioramirezrl/
+
