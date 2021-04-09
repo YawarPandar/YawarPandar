@@ -1,13 +1,13 @@
 ### Greetings! I'm YawarPandar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Website](https://img.shields.io/badge/SoftwareDeveloper-InfoSecEnthusiastic-green?style=for-the-badge)](https://github.com/YawarPandar)
 ## Your short description
-- 🔭 I’m currently working on - ❔❔❔❔
-- 🌱 I’m currently learning - ❔❔❔❔
-- 👯 I’m looking to collaborate with - ❔❔❔❔
+- 🔭 I’m currently working on Software Outsourcing for banking and financial companies.
+- 🌱 I’m currently learning Networking stuff.
+<!-- - 👯 I’m looking to collaborate with Cyber Security oriented projects.
 - 💬 Ask me about - ❔❔❔❔
-- 🥅 2020 Goal - ❔❔❔❔
+- 🥅 2020 Goal - Get one certification as first step on Cyber Security career.
 - ⚡ Fun fact - ❔❔❔❔
-<!-- ❔❔❔❔ means username in below README.md -->
+❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
 [![YawarPandar's github stats](https://github-readme-stats.vercel.app/api?username=YawarPandar&count_private=true&include_all_commits=true&theme=radical)](https://github.com/YawarPandar)
 ## Connect with me:
