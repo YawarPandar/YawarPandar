@@ -3,6 +3,9 @@
 ## Your short description
 - I’m currently working on software outsourcing services for banking and financial companies.
 - I’m currently learning about networking stuff.
+- Experience with:
+  - [![Website](https://img.shields.io/badge/VisualStudio.Net-✅-blue?style=flat&logo=visual-studio-net)](https://github.com/YawarPandar)
+  - [![Website](https://img.shields.io/badge/VisualStudio.Net-✅-blue?style=flat)](https://github.com/YawarPandar)
 <!-- - 👯 I’m looking to collaborate with Cyber Security oriented projects.
 - 💬 Ask me about - ❔❔❔❔
 - 🥅 2020 Goal - Get one certification as first step on Cyber Security career.
