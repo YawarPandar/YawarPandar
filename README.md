@@ -7,6 +7,7 @@ I'm YawarPandar.<br/>
 - Work experience:<br/>
 
   - [![Website](https://img.shields.io/badge/Visual%20%20Studio%20%20.Net-blue?style=flat&logo=visual-studio)](https://visualstudio.microsoft.com/vs/)
+  - [![Website](https://img.shields.io/badge/.NET-purple?style=flat&logo=dotnet)](https://dotnet.microsoft.com/)
   - [![Website](https://img.shields.io/badge/Visual%20%20Studio%20%20Code-blue?style=flat&logo=visual-studio-code)](https://code.visualstudio.com/)
   - [![Website](https://img.shields.io/badge/Red%20%20Hat%20%20CodeReady%20%20Studio-red?style=flat&logo=red-hat)](https://www.redhat.com/en/technologies/jboss-middleware/codeready-studio)
   - [![Website](https://img.shields.io/badge/Microsoft%20%20SQL%20%20Server-red?style=flat&logo=microsoft-sql-server)](https://www.microsoft.com/en-us/sql-server/sql-server-2019)
