@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![YawarPandar's GitHub stats](https://github-readme-stats.vercel.app/api?username=yawarpandar)](https://github.com/yawarpandar/github-readme-stats)
+[![YawarPandar's GitHub stats](https://github-readme-stats.vercel.app/api?username=yawarpandar)]
 
 <!---
 YawarPandar/YawarPandar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
