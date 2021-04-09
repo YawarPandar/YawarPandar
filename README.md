@@ -5,7 +5,12 @@
 - I’m currently learning about networking stuff.
 - Experience with:
   - [![Website](https://img.shields.io/badge/VisualStudio.Net-✅-blue?style=flat&logo=visual-studio)](https://github.com/YawarPandar)
-  - [![Website](https://img.shields.io/badge/MSSQLServer-✅-blue?style=flat&logo=microsoft-sql-server)](https://github.com/YawarPandar)
+  - [![Website](https://img.shields.io/badge/MicrosoftSQLServer-✅-blue?style=flat&logo=microsoft-sql-server)](https://github.com/YawarPandar)
+  - [![Website](https://img.shields.io/badge/Oracle-✅-blue?style=flat&logo=oracle)](https://github.com/YawarPandar)
+  - [![Website](https://img.shields.io/badge/MySQL-✅-blue?style=flat&logo=mysql)](https://github.com/YawarPandar)
+  - [![Website](https://img.shields.io/badge/MicrosoftAzure-✅-blue?style=flat&logo=microsoft-azure)](https://github.com/YawarPandar)
+  - [![Website](https://img.shields.io/badge/Angular-✅-blue?style=flat&logo=angular)](https://github.com/YawarPandar)
+  - 
 <!-- - 👯 I’m looking to collaborate with Cyber Security oriented projects.
 - 💬 Ask me about - ❔❔❔❔
 - 🥅 2020 Goal - Get one certification as first step on Cyber Security career.
