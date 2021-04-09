@@ -4,9 +4,9 @@
 - I’m currently working on software outsourcing services for banking and financial companies.
 - I’m currently learning about networking stuff.
 - Work experience:
-  - [![Website](https://img.shields.io/badge/Visual%20%20Studio%20%20.Net-blue?style=flat&logo=visual-studio)](https://github.com/YawarPandar)
-  - [![Website](https://img.shields.io/badge/Visual%20%20Studio%20%20Code-blue?style=flat&logo=visual-studio-code)](https://github.com/YawarPandar)
-  - [![Website](https://img.shields.io/badge/Red%20%20Hat%20%20CodeReady%20%20Studio-red?style=flat&logo=red-hat)](https://github.com/YawarPandar)
+  - [![Website](https://img.shields.io/badge/Visual%20%20Studio%20%20.Net-blue?style=flat&logo=visual-studio)](https://visualstudio.microsoft.com/vs/)
+  - [![Website](https://img.shields.io/badge/Visual%20%20Studio%20%20Code-blue?style=flat&logo=visual-studio-code)](https://code.visualstudio.com/)
+  - [![Website](https://img.shields.io/badge/Red%20%20Hat%20%20CodeReady%20%20Studio-red?style=flat&logo=red-hat)](https://www.redhat.com/en/technologies/jboss-middleware/codeready-studio)
   - [![Website](https://img.shields.io/badge/Microsoft%20%20SQL%20%20Server-red?style=flat&logo=microsoft-sql-server)](https://github.com/YawarPandar)
   - [![Website](https://img.shields.io/badge/Oracle-red?style=flat&logo=oracle)](https://github.com/YawarPandar)
   - [![Website](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql)](https://github.com/YawarPandar)
