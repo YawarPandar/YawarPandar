@@ -24,6 +24,8 @@
   - [![Website](https://img.shields.io/badge/RedHatJBossFuseKaraf-✅-blue?style=flat&logo=red-hat)](https://github.com/YawarPandar)
   - [![Website](https://img.shields.io/badge/RedHatJBossEAP-✅-blue?style=flat&logo=red-hat)](https://github.com/YawarPandar)
   - [![Website](https://img.shields.io/badge/RedHatJBossBRMS-✅-blue?style=flat&logo=red-hat)](https://github.com/YawarPandar)
+- Fun experience:
+  - [![Website](https://img.shields.io/badge/PlayStationVita-✅-blue?style=flat&logo=playstation-vita)](https://github.com/YawarPandar)
 <!-- - 👯 I’m looking to collaborate with Cyber Security oriented projects.
 - 💬 Ask me about - ❔❔❔❔
 - 🥅 2020 Goal - Get one certification as first step on Cyber Security career.
