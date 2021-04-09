@@ -5,6 +5,8 @@
 - I’m currently learning about networking stuff.
 - Experience with:
   - [![Website](https://img.shields.io/badge/VisualStudio.Net-✅-blue?style=flat&logo=visual-studio)](https://github.com/YawarPandar)
+  - [![Website](https://img.shields.io/badge/VisualStudioCode-✅-blue?style=flat&logo=visual-studio-code)](https://github.com/YawarPandar)
+  - [![Website](https://img.shields.io/badge/RedHatCodeReadyStudio-✅-blue?style=flat&logo=red-hat)](https://github.com/YawarPandar)
   - [![Website](https://img.shields.io/badge/MicrosoftSQLServer-✅-blue?style=flat&logo=microsoft-sql-server)](https://github.com/YawarPandar)
   - [![Website](https://img.shields.io/badge/Oracle-✅-blue?style=flat&logo=oracle)](https://github.com/YawarPandar)
   - [![Website](https://img.shields.io/badge/MySQL-✅-blue?style=flat&logo=mysql)](https://github.com/YawarPandar)
@@ -12,7 +14,11 @@
   - [![Website](https://img.shields.io/badge/MicrosoftAzure-✅-blue?style=flat&logo=microsoft-azure)](https://github.com/YawarPandar)
   - [![Website](https://img.shields.io/badge/AmazonAWS-✅-blue?style=flat&logo=amazon-aws)](https://github.com/YawarPandar)
   - [![Website](https://img.shields.io/badge/Angular-✅-blue?style=flat&logo=angular)](https://github.com/YawarPandar)
-  - 
+  - [![Website](https://img.shields.io/badge/Java-✅-blue?style=flat&logo=java)](https://github.com/YawarPandar)
+  - [![Website](https://img.shields.io/badge/JavaScript-✅-blue?style=flat&logo=javascript)](https://github.com/YawarPandar)
+  - [![Website](https://img.shields.io/badge/JQuery-✅-blue?style=flat&logo=jquery)](https://github.com/YawarPandar)
+  - [![Website](https://img.shields.io/badge/TypeScript-✅-blue?style=flat&logo=typescript)](https://github.com/YawarPandar)
+  - [![Website](https://img.shields.io/badge/PHP-✅-blue?style=flat&logo=php)](https://github.com/YawarPandar)
 <!-- - 👯 I’m looking to collaborate with Cyber Security oriented projects.
 - 💬 Ask me about - ❔❔❔❔
 - 🥅 2020 Goal - Get one certification as first step on Cyber Security career.
