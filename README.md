@@ -16,6 +16,7 @@ I'm YawarPandar.<br/>
   - [![Website](https://img.shields.io/badge/MongoDB-brightgreen?style=flat&logo=mongodb)](https://www.mongodb.com/)
   - [![Website](https://img.shields.io/badge/Microsoft%20%20Azure-lightgray?style=flat&logo=microsoft-azure)](https://azure.microsoft.com/en-us/)
   - [![Website](https://img.shields.io/badge/Amazon%20%20AWS-yellowgreen?style=flat&logo=amazon-aws)](https://aws.amazon.com/)
+  - [![Website](https://img.shields.io/badge/C%23-red?style=flat&logo=c-sharp)](https://angular.io/)
   - [![Website](https://img.shields.io/badge/Angular-red?style=flat&logo=angular)](https://angular.io/)
   - [![Website](https://img.shields.io/badge/Java-red?style=flat&logo=java)](https://www.java.com/)
   - [![Website](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)](https://www.javascript.com/)
@@ -27,7 +28,8 @@ I'm YawarPandar.<br/>
   - [![Website](https://img.shields.io/badge/Red%20%20Hat%20%20JBoss%20%20Fuse%20%20Karaf-blue?style=flat&logo=red-hat)](https://github.com/jboss-fuse/fuse-karaf)
   - [![Website](https://img.shields.io/badge/Red%20%20Hat%20%20JBoss%20%20EAP-blue?style=flat&logo=red-hat)](https://www.redhat.com/en/technologies/jboss-middleware/application-platform)
   - [![Website](https://img.shields.io/badge/Red%20%20Hat%20%20JBoss%20%20BRMS-blue?style=flat&logo=red-hat)](https://www.cmsdistribution.com/product/red-hat-jboss-brms/)
-  - [![Website](https://img.shields.io/badge/Apache%20%20HTTP%20%20Server-orange?style=flat&logo=red-hat)](https://httpd.apache.org/)
+  - [![Website](https://img.shields.io/badge/Apache%20%20HTTP%20%20Server-red?style=flat&logo=apache)](https://httpd.apache.org/)
+  - [![Website](https://img.shields.io/badge/Swagger-green?style=flat&logo=swagger)](https://swagger.io/)
  
 - Free time interests:
   - [![Website](https://img.shields.io/badge/Kali%20%20Linux-black?style=flat&logo=kali-linux)](https://www.kali.org/)
