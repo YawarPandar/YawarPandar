@@ -19,6 +19,11 @@
   - [![Website](https://img.shields.io/badge/JQuery-✅-blue?style=flat&logo=jquery)](https://github.com/YawarPandar)
   - [![Website](https://img.shields.io/badge/TypeScript-✅-blue?style=flat&logo=typescript)](https://github.com/YawarPandar)
   - [![Website](https://img.shields.io/badge/PHP-✅-blue?style=flat&logo=php)](https://github.com/YawarPandar)
+  - [![Website](https://img.shields.io/badge/PowerBI-✅-blue?style=flat&logo=power-bi)](https://github.com/YawarPandar)
+  - [![Website](https://img.shields.io/badge/MicrosoftVisio-✅-blue?style=flat&logo=microsoft-visio)](https://github.com/YawarPandar)
+  - [![Website](https://img.shields.io/badge/RedHatJBossFuseKaraf-✅-blue?style=flat&logo=red-hat)](https://github.com/YawarPandar)
+  - [![Website](https://img.shields.io/badge/RedHatJBossEAP-✅-blue?style=flat&logo=red-hat)](https://github.com/YawarPandar)
+  - [![Website](https://img.shields.io/badge/RedHatJBossBRMS-✅-blue?style=flat&logo=red-hat)](https://github.com/YawarPandar)
 <!-- - 👯 I’m looking to collaborate with Cyber Security oriented projects.
 - 💬 Ask me about - ❔❔❔❔
 - 🥅 2020 Goal - Get one certification as first step on Cyber Security career.
