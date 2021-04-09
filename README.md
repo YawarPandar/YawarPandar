@@ -4,7 +4,7 @@
 - I’m currently working on software outsourcing services for banking and financial companies.
 - I’m currently learning about networking stuff.
 - Work experience:
-  - [![Website](https://img.shields.io/badge/VisualStudio.Net-✅-blue?style=flat&logo=visual-studio)](https://github.com/YawarPandar)
+  - [![Website](https://img.shields.io/badge/Visual%20%20Studio%20%20.Net✅-blue?style=flat&logo=visual-studio)](https://github.com/YawarPandar)
   - [![Website](https://img.shields.io/badge/VisualStudioCode-✅-blue?style=flat&logo=visual-studio-code)](https://github.com/YawarPandar)
   - [![Website](https://img.shields.io/badge/RedHatCodeReadyStudio-✅-blue?style=flat&logo=red-hat)](https://github.com/YawarPandar)
   - [![Website](https://img.shields.io/badge/MicrosoftSQLServer-✅-blue?style=flat&logo=microsoft-sql-server)](https://github.com/YawarPandar)
