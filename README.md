@@ -1,4 +1,6 @@
-### Greetings! I'm YawarPandar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Greetings! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+I'm YawarPandar.
 [![Website](https://img.shields.io/badge/Software%20%20Developer-blue?style=for-the-badge)](https://github.com/YawarPandar)[![Website](https://img.shields.io/badge/InfoSec%20%20Enthusiastic-red?style=for-the-badge)](https://github.com/YawarPandar)[![Website](https://img.shields.io/badge/Casual%20%20Gamer-green?style=for-the-badge)](https://github.com/YawarPandar)
 <!--## Your short description-->
 - I’m currently working on software outsourcing services for banking and financial companies.
