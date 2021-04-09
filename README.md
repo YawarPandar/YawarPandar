@@ -41,7 +41,7 @@
 <!--[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]-->
 [![Website](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)][twitter]
 <!--[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]-->
-[![Website](https://img.shields.io/badge/Facebook-darkblue?style=flat&logo=facebook)][website]
+[![Website](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)][website]
 <br />
 <!-- This section you create this variables that are used above -->
 [website]: https://www.facebook.com/mf.ramirezl
