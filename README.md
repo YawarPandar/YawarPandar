@@ -18,14 +18,14 @@
   - [![Website](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)](https://github.com/YawarPandar)
   - [![Website](https://img.shields.io/badge/JQuery-blue?style=flat&logo=jquery)](https://github.com/YawarPandar)
   - [![Website](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript)](https://github.com/YawarPandar)
-  - [![Website](https://img.shields.io/badge/PHP-✅-blue?style=flat&logo=php)](https://github.com/YawarPandar)
-  - [![Website](https://img.shields.io/badge/Power%20%20BI-✅-blue?style=flat&logo=power-bi)](https://github.com/YawarPandar)
-  - [![Website](https://img.shields.io/badge/Microsoft%20%20Visio-✅-blue?style=flat&logo=microsoft-visio)](https://github.com/YawarPandar)
-  - [![Website](https://img.shields.io/badge/Red%20%20Hat%20%20JBoss%20%20Fuse%20%20Karaf-✅-blue?style=flat&logo=red-hat)](https://github.com/YawarPandar)
-  - [![Website](https://img.shields.io/badge/Red%20%20Hat%20%20JBoss%20%20EAP-✅-blue?style=flat&logo=red-hat)](https://github.com/YawarPandar)
-  - [![Website](https://img.shields.io/badge/Red%20%20Hat%20%20JBoss%20%20BRMS-✅-blue?style=flat&logo=red-hat)](https://github.com/YawarPandar)
+  - [![Website](https://img.shields.io/badge/PHP-blueviolet?style=flat&logo=php)](https://github.com/YawarPandar)
+  - [![Website](https://img.shields.io/badge/Power%20%20BI-yellow?style=flat&logo=power-bi)](https://github.com/YawarPandar)
+  - [![Website](https://img.shields.io/badge/Microsoft%20%20Visio-blue?style=flat&logo=microsoft-visio)](https://github.com/YawarPandar)
+  - [![Website](https://img.shields.io/badge/Red%20%20Hat%20%20JBoss%20%20Fuse%20%20Karaf-blue?style=flat&logo=red-hat)](https://github.com/YawarPandar)
+  - [![Website](https://img.shields.io/badge/Red%20%20Hat%20%20JBoss%20%20EAP-blue?style=flat&logo=red-hat)](https://github.com/YawarPandar)
+  - [![Website](https://img.shields.io/badge/Red%20%20Hat%20%20JBoss%20%20BRMS-blue?style=flat&logo=red-hat)](https://github.com/YawarPandar)
 - Fun experience:
-  - [![Website](https://img.shields.io/badge/PlayStationVita-✅-blue?style=flat&logo=playstation-vita)](https://github.com/YawarPandar)
+  - [![Website](https://img.shields.io/badge/PlayStationVita-blue?style=flat&logo=playstation-vita)](https://github.com/YawarPandar)
 <!-- - 👯 I’m looking to collaborate with Cyber Security oriented projects.
 - 💬 Ask me about - ❔❔❔❔
 - 🥅 2020 Goal - Get one certification as first step on Cyber Security career.
