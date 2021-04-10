@@ -1,9 +1,9 @@
-### Greetings! <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18px">-->
+<!--### Greetings! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18px">-->
 
-I'm Yawar P.<br/>
+<!--I'm Yawar P.<br/>-->
 [![Website](https://img.shields.io/badge/Software%20%20Developer-darkblue?style=for-the-badge)](https://github.com/YawarPandar)[![Website](https://img.shields.io/badge/InfoSec%20%20Enthusiastic-darkred?style=for-the-badge)](https://github.com/YawarPandar)[![Website](https://img.shields.io/badge/Casual%20%20Gamer-yellow?style=for-the-badge)](https://github.com/YawarPandar)
 
-- I’m currently working on software outsourcing services for banking and financial companies, and also learning about networking stuff by myself.
+- Currently working on software outsourcing services for banking and financial companies, and also learning about networking stuff by myself.
 - Work experience:<br/>
 
   - [![Website](https://img.shields.io/badge/Visual%20%20Studio%20%20.Net-blue?style=flat&logo=visual-studio)](https://visualstudio.microsoft.com/vs/)
