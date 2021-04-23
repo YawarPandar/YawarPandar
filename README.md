@@ -42,6 +42,6 @@
 <br />
 <!-- variables used above -->
 [website]: https://www.facebook.com/mf.ramirezl
-[twitter]: https://twitter.com/MFRamL
+[twitter]: https://twitter.com/YawarPandar
 [linkedin]: https://www.linkedin.com/in/mauricioramirezrl/
 
