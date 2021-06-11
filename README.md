@@ -41,7 +41,7 @@
 [![Website](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)][linkedin] [![Website](https://img.shields.io/badge/Facebook-darkblue?style=flat&logo=facebook)][website] [![Website](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)][twitter]
 <br />
 <!-- variables used above -->
-[website]: https://www.facebook.com/mf.ramirezl
+<!--[website]: https://www.facebook.com/mf.ramirezl
 [twitter]: https://twitter.com/YawarPandar
-[linkedin]: https://www.linkedin.com/in/mauricioramirezrl/
+[linkedin]: https://www.linkedin.com/in/mauricioramirezrl/-->
 
