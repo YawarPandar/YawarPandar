@@ -36,6 +36,3 @@
   - [![Website](https://img.shields.io/badge/Android-green?style=flat&logo=android)](https://www.android.com/)
   - [![Website](https://img.shields.io/badge/Android%20%20Studio-green?style=flat&logo=android-studio)](https://developer.android.com/studio/)
   - [![Website](https://img.shields.io/badge/PS%20%20Vita-blue?style=flat&logo=playstation-vita)](https://en.wikipedia.org/wiki/PlayStation_Vita)
-
-## Connect with me:
-[![Website](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)][linkedin] [![Website](https://img.shields.io/badge/Facebook-darkblue?style=flat&logo=facebook)][website] [![Website](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)][twitter]
