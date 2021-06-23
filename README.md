@@ -38,7 +38,7 @@
   - [![Website](https://img.shields.io/badge/PS%20%20Vita-blue?style=flat&logo=playstation-vita)](https://en.wikipedia.org/wiki/PlayStation_Vita)
 
 ## Connect with me:
-[![Website](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)][twitter]
+[![Website](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)][linkedin]
 <br />
 <!-- variables used above -->
 [website]: https://www.facebook.com/mf.ramirezl
